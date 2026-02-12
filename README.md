@@ -78,6 +78,11 @@ The declining condo-to-rental ratio reflects a longer-term shift in housing comp
 This project demonstrates the ability to transform housing market data into structured analytical insights that support executive-level decision-making through integrated trend, regional, and market analysis.
 
 ---
+## 📄 Full Report
+You can download the full analytical report here:  
+👉 [Executive Analytical Report (PDF)](report/BC_Housing_Report.pdf)
+
+---
 
 ## 📷 Dashboard Preview
 
