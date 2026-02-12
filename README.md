@@ -87,8 +87,6 @@ You can download the full analytical report here:
 👉 [Executive Analytical Report (PDF)](Report/BC_Housing_report.pdf)
 
 ---
-## 🎥 Dashboard Preview
-![Dashboard Demo](images/dashboard-demo.gif)
 
 ## 📷 Dashboard Preview
 
