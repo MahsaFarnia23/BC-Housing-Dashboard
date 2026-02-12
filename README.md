@@ -81,7 +81,7 @@ This project demonstrates the ability to transform housing market data into stru
 
 ## 📷 Dashboard Preview
 
-![Executive Summary](BC-Housing-Dashboard/images/executive_summary.png)
+![Executive Summary](images/executive_summary.png)
 ![Cluster Analysis](images/cluster_analysis.png)
 ![Trend Analysis](images/trend_analysis.png)
 
