@@ -72,7 +72,11 @@ The declining condo-to-rental ratio reflects a longer-term shift in housing comp
 - Project Documentation  
 
 ---
+## 🔧 How to Use
+- Open the `BC_Housing.pbix` file in Power BI Desktop.
+- Explore the interactive filters and visuals to dive into the data.
 
+---
 ## 🎯 Project Objective
 
 This project demonstrates the ability to transform housing market data into structured analytical insights that support executive-level decision-making through integrated trend, regional, and market analysis.
