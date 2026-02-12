@@ -81,15 +81,8 @@ This project demonstrates the ability to transform housing market data into stru
 
 ## 📷 Dashboard Preview
 
-![Executive Summary](images/executive_summary.png)
+[Executive Summary](images/executive_summary.png)
 ![Cluster Analysis](images/cluster_analysis.png)
 ![Trend Analysis](images/trend_analysis.png)
 
 
-## Tools & Technologies
-- Power BI
-- DAX (Data Analysis Expressions)
-- Data Modeling (Star Schema)
-- Excel (Data Preparation)
-- Data Cleaning & Transformation
-- KPI Design & Dashboard Storytelling
