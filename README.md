@@ -94,4 +94,7 @@ You can download the full analytical report here:
 ![Cluster Analysis](images/cluster_analysis.png)
 ![Trend Analysis](images/trend_analysis.png)
 
+---
+## 📜 License
+This project is licensed under the MIT License.
 
